@@ -1,3 +1,4 @@
+//GLOBAL VARIABLES
 var userChoice;
 var compChoice;
 var scoreUser;

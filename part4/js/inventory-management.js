@@ -1,5 +1,3 @@
-/*eslint-env browser*/
-
 function view(inventory) {
     "use strict";
     var i, stored;
